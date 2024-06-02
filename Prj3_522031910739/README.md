@@ -24,7 +24,3 @@ This project implements a simple multi-user file system in C. It allows multiple
     `./FC <ServerAddr> <FSPort>`
 
    `./Multi`
-
-## Tips
-
-Since I wasn't able to implement the project properly, the teacher doesn't need to spend time checking if the code runs correctly.
